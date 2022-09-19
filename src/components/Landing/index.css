@@ -1,0 +1,167 @@
+.first-section > div > h1 {
+    font-size: 53px;
+    font-weight: 650;
+    color: white;
+}
+.first-section > div > p {
+    color: rgb(143, 143, 143);
+}
+.first-content {
+    padding-top: 270px;
+}
+.second-section {
+    padding-top: 240px;
+}
+.second-section > div > p {
+    color: rgb(106 97 123);
+    font-weight: 550;
+}
+.second-section > div > p > span {
+    color: rgb(172 162 189);
+    font-weight: 600;
+}
+.second-section > div > h3 {
+    color: white;
+    font-weight: 600;
+}
+.third-section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.third-section > div > div > p {
+    color: rgb(106 97 123);
+    font-weight: 550;
+}
+.third-section > div > div > p > span {
+    color: rgb(172 162 189);;
+    font-weight: 600;
+}
+.third-section > div > div > h3 {
+    color: white;
+    font-weight: 600;
+}
+.volume {
+    margin-top: 45px;
+    border: solid 1px rgba(82, 76, 94, 0.585);
+    border-radius: 20px;
+    width: fit-content;
+    margin: auto;
+    box-shadow: rgb(105 102 255 / 10%) 0px 0px 40px;
+}
+.volume-card {
+    border-right: solid 1px rgba(82, 76, 94, 0.585);
+    width: 400px;
+}
+.volume-card > div {
+    padding: 23px;
+}
+.Volume-title {
+    order: 1;
+    margin-bottom: 0.5rem;
+    font-size: 1.025rem;
+    line-height: 1.5rem;
+    --tw-text-opacity: 1;
+    color: rgba(128,126,152,var(--tw-text-opacity));
+}
+.Volume-value {
+    font-size: 3rem;
+    color: white;
+    font-weight: 600;
+}
+.Volume-time {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-top: 1rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    letter-spacing: 0.05em;
+    margin-top: 0.75rem;
+    text-transform: uppercase;
+    --tw-text-opacity: 1;
+    color: rgba(128,126,152,var(--tw-text-opacity));
+    opacity: 0.75;
+}
+.icon {
+    background-color: rgb(90, 35, 186);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 8px;
+}
+.text-maincolor {
+    color: rgb(136, 128, 150);
+}
+.w-50p {
+    width: 50px;
+}
+.fw-600 {
+    font-weight: 600;
+}
+.network-select {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: solid 1px rgba(55, 55, 55, 0.3);
+    background-color: #1f22315e;
+}
+.network-select > div > div > .item {
+    width: 500px;
+    height: 120px;
+    border: solid 1px rgba(105, 102, 255, 0.325);
+    padding: 17px 35px;
+    border-radius: 10px;
+    background-color: #18223642;
+    box-shadow: 0 0.7rem 1.2rem rgb(0 0 0 / 30%);
+}
+.network-icon {
+    width: 80px;
+    height: 80px;
+}
+
+.create-token {
+    margin-top: 40px;
+    padding: 50px 0px;
+}
+.create-token > div > .item {
+    border: 1px solid #2a2b3d;
+    padding: 18px 24px;
+    margin: 0 12px;
+    border-radius: 5px;
+    box-shadow: 0 0.5rem 1.3rem rgb(0 0 0 / 52%);;
+}
+.buy-btn {
+    background-color: #0052a2;
+    color: white;
+    padding: 7px 13px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.buy-btn:hover {
+    background-color: #0065ca;
+    color: white;
+}
+.pr-4 {
+    padding-right: 20px;
+}
+.menu-section {
+    border-top: 1px solid rgba(124, 124, 124, 0.3);
+    margin-top: 50px;
+}
+.menu-section > div > div > div > p {
+    font-size: 14px;
+}
+.menu-section > div > div > div > h6 {
+    color:rgb(227, 223, 231);
+}
+.menu-section > div > div > div > h6:hover {
+    color:rgb(196, 164, 228);
+}
+.menu-section > div > div > div {
+    padding: 12px 0;
+    cursor: pointer;
+}
+.menu-section > div > div {
+    padding: 0 19px;
+    width: fit-content;
+}
